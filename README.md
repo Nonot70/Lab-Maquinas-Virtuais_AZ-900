@@ -83,6 +83,7 @@ O objetivo é **consolidar o aprendizado sobre máquinas virtuais no Azure**, re
 2. ⬇️ Baixei o arquivo `.rdp`.  
 3. 🖥️ Acesse via RDP com as credenciais criadas.  
 
+<img width="1352" height="725" alt="image" src="https://github.com/user-attachments/assets/4764146e-1090-402c-8748-a351c7130931" />
 ---
 
 ## 📋 Resumo das Configurações da Máquina Virtual  
@@ -116,6 +117,8 @@ Este laboratório permitiu compreender:
 ✔️ O **processo completo de criação de uma VM no Azure**.  
 ✔️ A importância de cada configuração (rede, discos, segurança, gerenciamento).  
 ✔️ Boas práticas para **custos, segurança e organização**.  
+
+> 💡 **Importante:** A VM foi removida após o lab para manter o ambiente limpo e evitar gastos desnecessários.  
 
 Com isso, consolidei os conceitos fundamentais sobre **Infraestrutura como Serviço (IaaS)** no **Microsoft Azure**.  
 
